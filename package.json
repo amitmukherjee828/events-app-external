@@ -1,7 +1,7 @@
 {
   "name": "sample",
   "version": "1.0.0",
-  "description": "My first ext change",
+  "description": "My second ext change for branch",
   "main": "server.js",
   "scripts": {
     "start": "SERVER=http://localhost:8082 node server.js",
